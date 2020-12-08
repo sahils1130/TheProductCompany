@@ -1,0 +1,44 @@
+prodid,prodDescription,price1,price2,unitCost,supplierName,productTypeID,TYPEDESCRIPTION,BUID,NAME,ABBREV
+ 001,Enumerator Polishing Equipment       ,164.97,142.53,120,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 002,Planetesimal Manufacturing Equipment ,347.28,307   ,250,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 003,Tailor Jacks                         ,509.78,429.74,399.66,TPC West    , 015,Jacks                  ,D        ,Miscellaneous           ,Misc          
+ 004,Miniaturizing Manufacturing Equipment,456.24,379.59,325,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 005,Flake Photo Equipment                ,232.26,204.39,170,            , 001,Photo Equipment        ,A        ,Processing Equipment    ,Equipment     
+ 006,Denigrating Polishing Equipment      ,565.95,454.46,402,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 007,Bandage Manufacturing Equipment      ,298   ,267.01,234,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 008,Chalmers Polishing Equipment         ,289.17,242.61,215,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 009,Defeated Tray Supplies               ,559.74,476.9 ,448.29,TPC West    , 008,Tray Supplies          ,B        ,Disposable Supplies     ,Supplies      
+ 010,Chartable Photo Equipment            ,410.17,347.41,295,            , 009,Photo Chemicals        ,C        ,Chemicals               ,Chemicals     
+ 011,Sailors Manufacturing Equipment      ,340.48,290.43,235,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 012,Chromium Photo Equipment             ,565.5 ,457.49,326,            , 001,Photo Equipment        ,A        ,Processing Equipment    ,Equipment     
+ 013,Coward Covers                        ,429.79,348.99,328.05,TPC East    , 013,Covers                 ,D        ,Miscellaneous           ,Misc          
+ 014,Travelings Photo Chemicals           ,274.39,242.01,225.07,TPC West    , 009,Photo Chemicals        ,C        ,Chemicals               ,Chemicals     
+ 015,Syntax Polishing Equipment           ,226.72,190.9 ,123,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 016,Insensitivity Manufacturing Equipment,200.71,180.44,117,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 017,Sortie Covers                        ,248.21,213.21,206.81,TPC East    , 013,Covers                 ,D        ,Miscellaneous           ,Misc          
+ 018,Allis Polishing Equipment            ,201.77,176.35,112,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 019,Habitually Manufacturing Equipment   ,509.3 ,419.15,354,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 020,Courthouses Manufacturing Equipment  ,285.62,243.63,182,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 021,Weeks Polishing Equipment            ,198.83,174.18,151,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 022,Extinguisher Manufacturing Equipment ,120.39,98.36 ,65,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 023,Occlusion Manufacturing Equipment    ,199.88,177.29,72,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 024,Loaves Polishing Equipment           ,425.59,361.33,241,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 025,Automobiles Fillers                  ,283.83,227.63,218.52,TPC East    , 012,Fillers                ,D        ,Miscellaneous           ,Misc          
+ 026,Simulations Photo Equipment          ,318.38,255.66,193,            , 001,Photo Equipment        ,A        ,Processing Equipment    ,Equipment     
+ 027,Vastest Photo Equipment              ,498.08,442.3 ,294,            , 001,Photo Equipment        ,A        ,Processing Equipment    ,Equipment     
+ 028,Palm Polishing Equipment             ,122.39,105.38,87,            , 033,                       ,         ,                        ,              
+ 029,Millimeters Flushing Chemicals       ,295.56,251.82,241.75,TPC East    , 010,Flushing Chemicals     ,C        ,Chemicals               ,Chemicals     
+ 030,Suing Manufacturing Equipment        ,482.16,426.71,329,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 031,Bellowing Polishing Equipment        ,502.57,451.31,400,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 032,Embodying Cleaning Supplies          ,250.91,213.52,207.11,TPC West    , 005,Cleaning Supplies      ,B        ,Disposable Supplies     ,Supplies      
+ 033,Pervasively Manufacturing Equipment  ,374.14,334.86,303,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 034,Septembers Manufacturing Equipment   ,584.33,522.98,217,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 035,Birthdays Manufacturing Equipment    ,196.56,173.17,115,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 036,Duplicator Polishing Equipment       ,544.28,465.36,409,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 037,Escape Manufacturing Equipment       ,584.38,523.6 ,463,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 038,Commendation Fillers                 ,436.33,380.04,364.84,TPC West    , 012,Fillers                ,D        ,Miscellaneous           ,Misc          
+ 039,Disallow Manufacturing Equipment     ,165.24,145.91,97,            , 002,Manufacturing Equipment,A        ,Processing Equipment    ,Equipment     
+ 040,Subclasses Polishing Equipment       ,282.51,239   ,210,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 041,Sulkiness Covers                     ,354.3 ,289.82,272.43,TPC East    , 013,Covers                 ,D        ,Miscellaneous           ,Misc          
+ 042,Concentrators Polishing Equipment    ,584.57,524.94,472,            , 003,Polishing Equipment    ,A        ,Processing Equipment    ,Equipment     
+ 043,Bomber Photo Equipment               ,461.34,400.44,336,            , 001,Photo Equipment        ,A        ,Processing Equipment    ,Equipment     

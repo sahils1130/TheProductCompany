@@ -1,0 +1,38 @@
+orderMethod,paymentMethod,shipMethod
+email   ,cash  ,air  
+email   ,cash  ,n/a  
+email   ,cash  ,train
+email   ,cash  ,truck
+email   ,charge,air  
+email   ,charge,n/a  
+email   ,charge,train
+email   ,charge,truck
+email   ,cod   ,air  
+email   ,cod   ,n/a  
+email   ,cod   ,train
+email   ,cod   ,truck
+internet,cash  ,air  
+internet,cash  ,n/a  
+internet,cash  ,train
+internet,cash  ,truck
+internet,charge,air  
+internet,charge,n/a  
+internet,charge,train
+internet,charge,truck
+internet,cod   ,air  
+internet,cod   ,n/a  
+internet,cod   ,train
+internet,cod   ,truck
+N/A     ,N/A   ,N/A  
+phone   ,cash  ,air  
+phone   ,cash  ,n/a  
+phone   ,cash  ,train
+phone   ,cash  ,truck
+phone   ,charge,air  
+phone   ,charge,n/a  
+phone   ,charge,train
+phone   ,charge,truck
+phone   ,cod   ,air  
+phone   ,cod   ,n/a  
+phone   ,cod   ,train
+phone   ,cod   ,truck

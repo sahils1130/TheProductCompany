@@ -1,0 +1,65 @@
+customer_ID,name,dept,suite,address,city,state,zip,custtype_ID,customer_type,division
+15,Ramu Kaka,N/A,N/A,220 John Street,Mans De Navarro ,PR,778,C ,Commercial      ,TPCE
+39,Pintu Bhau,N/A,N/A,2030 Jon Lasvana,Vallejo         ,MA,1999,E ,Education       ,TPCW
+9,Munna,Dept #805,N/A,13 Ghatkopar,Fall River      ,MA,2724,C ,Commercial      ,TPCW
+16,Babban,Dept #804,N/A,1234 MarboloLight,Fall River      ,MA,2724,C ,Commercial      ,TPCE
+39,Bajirao Akbar,Dept #5,N/A,567 Dombivali Street,Lisbon Falls    ,ME,4252,C ,Commercial      ,TPCE
+33,Shahaji,N/A,Suite 204,11368 Harder Drive        ,Maidstone       ,VT,5905,C ,Commercial      ,TPCE
+40,Babu Rao,N/A,N/A,45 Mahedev Mandir,San Juan        ,WA,7066,S ,State/Local Gov ,PEC
+13,Ganpat Lidsey,N/A,N/A,56 Mandir Ke bajumen,San Juan        ,WA,7066,S ,State/Local Gov ,TPCW
+35,Dinkar Shah,N/A,N/A,702 Prem Swaroop,Merizo          ,GA,10764,F ,US Govt         ,PEC
+34,Syvestor Patel,N/A,N/A,345 Khao Street,Woodbury        ,NY,11797,S ,State/Local Gov ,TPCW
+30,RyanBhai Kumar,N/A,Suite 277,126 Pathological Circle   ,Woodbury        ,NY,11797,S ,State/Local Gov ,TPCE
+21,Karan Sanjeev Bhatt,N/A,N/A,9130 Fames Road           ,Billings        ,IN,12869,C ,Commercial      ,TPCW
+9,The Product Company (East)  ,N/A,N/A,9090 Listen Road,Stratford       ,NY,13470,C ,Commercial      ,PEC
+17,Dylan Singh,N/A,N/A,7 Sidharth Drive,Washington      ,ME,15623,F ,US Govt         ,PEC
+22,Eminem Khan,N/A,N/A,78 Palitana Street,Hanahan         ,AK,15743,S ,State/Local Gov ,TPCW
+22,Homewood Studies,N/A,N/A,2285 Ante Street          ,Farmington      ,WV,16456,E ,Education       ,PEC
+39,Ronan French                ,N/A,N/A,8773 Feugiat Road         ,Gary            ,WA,17387,E ,Education       ,PEC
+37,Shanel Levey,N/A,N/A,8773 Feugiat Road         ,Gary            ,WA,17387,E ,Education       ,TPCW
+17,Lance Sharma,N/A,N/A,7079 Aspect Circle        ,Ross Siding     ,PA,17723,F ,US Govt         ,TPCE
+10,Hammett Farley              ,N/A,N/A,78 Taj Mahal Drive,Yonkers         ,AK,18651,S ,State/Local Gov ,PEC
+3,Beckman Coulter Incorporated,N/A,N/A,678 Pakistan ,Fairfax         ,VA,22035,E ,Education       ,TPCE
+18,Cross                       ,N/A,N/A,56 Lasan Circle,Hopkinsville    ,NH,25620,F ,US Govt         ,TPCW
+36,Robinhood Pandey,N/A,N/A,12  East Squire,Effingham       ,WY,27502,E ,Education       ,TPCW
+0,The Life Artois,N/A,N/A,286 East Squire Drive,Columbia        ,SC,29260,F ,US Govt         ,TPCE
+27,Rolex Kumar,N/A,N/A,6152 Auctor Road          ,Wilson          ,MS,29338,C ,Commercial      ,PEC
+12,Tata Birla,Dept #690,N/A,3334 Eggshell Circle      ,Oakley          ,SC,29461,F ,US Govt         ,TPCE
+7,Rupa Associates - 2,N/A,N/A,24 At Road              ,Gardner         ,GA,31421,E ,Education       ,PEC
+7,Rupa Associates - 3,N/A,N/A,270 At Road              ,Gardner         ,GA,31421,E ,Education       ,PEC
+2,Avans Industries,N/A,N/A,1618 Greenland Street     ,Tallahassee     ,FL,32304,E ,Education       ,TPCE
+6,Kharidnewale Jewelers,Dept #915,N/A,11455 Sheaf Drive         ,Anthony         ,FL,32617,S ,State/Local Gov ,TPCE
+5,Circuit Sharma,N/A,N/A,8068 Substances Street    ,North Miami     ,FL,33261,F ,US Govt         ,TPCW
+10,Saint Andrews Golf Corporati,N/A,N/A,8068 Substances Street    ,North Miami     ,FL,33261,F ,US Govt         ,TPCE
+4,Austin Burns                ,N/A,N/A,2041 Venenatis Avenue     ,Alexandria      ,DC,34440,E ,Education       ,TPCW
+40,Gre Preparations,Dept #532,N/A,  7196 Heaver Lane        ,Winter Garden   ,FL,34777,S ,State/Local Gov ,TPCW
+28,Ferangi Traders,Dept #532,N/A,7196 Heaver Lane          ,Winter Garden   ,FL,34777,S ,State/Local Gov ,TPCE
+32,Ferengi Treasures           ,N/A,N/A,716-6837 Vulputate Avenue ,Paramount       ,NY,35644,C ,Commercial      ,PEC
+30,Knox Reid                   ,N/A,N/A,500 Eu Avenue             ,Pass Christian  ,WY,35949,C ,Commercial      ,PEC
+13,Publishing Co Of North Ameri,N/A,Suite 518,978 Degrees Street        ,Heron Bay       ,AL,36523,S ,State/Local Gov ,TPCE
+25,Liberty Homes Incorporated  ,N/A,N/A,3051 Bumblers Lane        ,Medon           ,TN,38356,F ,US Govt         ,TPCE
+35,Integra -- A Hotel & Restaur,Dept #822,N/A,5222 Blazed Street        ,Parsons         ,TN,38363,F ,US Govt         ,TPCE
+12,Cain                        ,N/A,N/A,1116 Augue Street         ,Warwick         ,DC,38450,S ,State/Local Gov ,PEC
+14,The Final Frontier          ,N/A,N/A,528 Curabitur Road        ,Biddeford       ,MO,39683,S ,State/Local Gov ,TPCW
+8,Gemma Castro                ,N/A,N/A,9101 Duis Street          ,Passaic         ,VT,40926,F ,US Govt         ,PEC
+10,Byron Chemicals             ,N/A,N/A,6831 Donec Street         ,Salt Lake City  ,IN,41050,C ,Commercial      ,TPCW
+25,Atkins                      ,N/A,N/A,4607 Risus Road           ,Waukegan        ,NC,43147,S ,State/Local Gov ,PEC
+23,Cross                       ,N/A,N/A,112 In Road               ,Opelousas       ,GA,43882,F ,US Govt         ,PEC
+25,Garrison Works              ,N/A,N/A,3801 Lacus Road           ,Reno            ,WV,46307,E ,Education       ,TPCW
+32,Greenman Technologies Incorp,N/A,N/A,4910 Liveried Boulevard   ,Dabney          ,IN,47023,F ,US Govt         ,TPCE
+4,Magainin Pharmaceuticals Inc,Dept #332,N/A,9138 Planetesimal Lane    ,Twining         ,MI,48766,F ,US Govt         ,TPCE
+1,Room Plus Incorporated      ,N/A,Suite 836,6037 Ecuadorian Street    ,Clinton         ,MI,49236,C ,Commercial      ,TPCE
+14,Newcor Incorporated         ,N/A,Suite 401,8717 Involve Drive        ,Homer           ,MI,49245,S ,State/Local Gov ,TPCE
+27,Lnr Property Corporation    ,N/A,N/A,9382 Demolition Street    ,College Square  ,IA,50613,F ,US Govt         ,TPCE
+33,Tallulah                    ,N/A,N/A,3376 Aliquet Street       ,Batavia         ,NM,50742,C ,Commercial      ,PEC
+24,Helpmate Robotics Incorporat,N/A,Suite 213,9711 Writers Turnpike     ,Saint Cloud     ,WI,53079,E ,Education       ,TPCE
+3,YuliChem                    ,N/A,N/A,6440 Amet Street          ,Laguna Woods    ,KY,53141,C ,Commercial      ,TPCW
+11,Austin Ferrell              ,N/A,N/A,8666 Justo Road           ,Pullman         ,PA,55979,C ,Commercial      ,PEC
+6,Austin Ferrell              ,N/A,N/A,8666 Justo Road           ,Pullman         ,PA,55979,C ,Commercial      ,TPCW
+26,Dakota Mills                ,N/A,N/A,7442 Amet Avenue          ,Syracuse        ,DE,56656,F ,US Govt         ,PEC
+11,Beasley                     ,N/A,N/A,7800 Nec Road             ,Idabel          ,MA,57132,C ,Commercial      ,TPCW
+13,Knight                      ,N/A,N/A,765 Eget Avenue           ,Eureka          ,FL,57500,F ,US Govt         ,PEC
+3,Baxter May                  ,N/A,N/A,796-2366 Vel Avenue       ,Meriden         ,FL,58328,C ,Commercial      ,PEC
+35,Ferdinand Supply            ,N/A,N/A,6979 Quis Street          ,Nome            ,DE,58359,F ,US Govt         ,TPCW
+6,Raphael Allison             ,N/A,N/A,734-2598 Sed Avenue       ,La Crosse       ,HI,58702,C ,Commercial      ,PEC
+20,Price Rivers                ,N/A,N/A,2853 Aenean Avenue        ,Sault Ste. Marie,MS,59316,S ,State/Local Gov ,TPCW

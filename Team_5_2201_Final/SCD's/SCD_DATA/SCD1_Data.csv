@@ -1,0 +1,31 @@
+product_ID,product_name,price1,price2,unitcost,producttype_ID,buid,name,abbrev,division
+64,Berwick Fillers-TPCE-Version                ,584,488,463,12,D        ,Miscellaneous           ,Misc          ,TPCE
+64,Berwick Fillers -V2                    ,583,487,463,12,D        ,Miscellaneous           ,Misc          ,TPCW
+52,Identical Freezing Chemicals         ,578,465,447,11,C        ,Hard Chemicals         ,Chemicals     ,TPCW
+52,Identical Freezing Chemicals         ,588,466,447,11,C        ,Chemicals               ,Chemical      ,TPCE
+97,Stickiest Paper Supplies             ,578,503,468,6,B        ,Disposable Supplies     ,Supply        ,TPCE
+97,Stickiest Paper Supplies             ,579,502,467,6,B        ,Disposable Supplies     ,Supplies      ,TPCW
+49,Visage Flushing Chemicals     ,568,510,467,10,C        ,Chemicals               ,Chemical      ,TPCE
+49,Visage Flushing Chemicals            ,567,517,466,10,C        ,Chemicals               ,Chemicals     ,TPCW
+94,Beliefs Freezing Chemicals           ,577,444,455,11,C        ,Chemicals    ,Chemical      ,TPCE
+94,Beliefs Freezing Chemicals           ,566,383,454,11,C        ,Chemicals               ,Chemicals     ,TPCW
+35,Chromium Photo Equipment             ,566,430,425,1,A        ,Processing Equipment    ,Equipment     ,TPCE
+21,Denigrating Polishing Equipment      ,566,494,427,3,A        ,Processing Equipment    ,Equipment     ,TPCE
+6,Denigrating Polishing Equipment-PEC ,565,454,402,3,A        ,Processing Equipment    ,Equipment     ,PEC
+12,Chromium Photo Equipment             ,535,457,326,1,A        ,Processing Equipment-HQ  ,Equipment     ,PEC
+21,Denigrating Polishing Equipment      ,585,454,427,3,A        ,Processing Equipment    ,Equipment     ,TPCW
+35,Chromium Photo Equipment             ,585,477,425,1,A        ,Processing Equipment    ,Equipment     ,TPCW
+10,Defeated Tray Supplies               ,590,477,448,8,B        ,Chemicals               ,Supply        ,TPCE
+42,Carelessly Freezing Chemicals        ,560,478,426,11,C        ,Chemicals               ,Chemical      ,TPCE
+9,Defeated Tray Supplies               ,559,476,448,8,B        ,Disposable Supplies     ,Supplies      ,PEC
+10,Defeated Tray Supplies -TPCW             ,559,476,448,8,B        ,Disposable Supplies     ,Supplies      ,TPCW
+42,Carelessly Freezing Chemicals        ,559,467,425,11,C        ,Hard Chemicals               ,Chemicals     ,TPCW
+28,Wonderingly Covers                   ,547,467,453,13,D        ,Miscellaneous           ,Misc          ,TPCW
+28,Wonderingly Covers-Version2            ,547,467,453,13,D        ,Miscellaneous           ,Misc          ,TPCE
+55,Bumblers Plastic Supplies            ,545,466,447,7,B        ,Disposable Supplies     ,Supplies      ,TPCW
+86,Soya Cleaning Supplies               ,406,345,345,5,B        ,Disposable Supplies     ,Supplies      ,TPCW
+87,Suing Manufacturing Equipment        ,482,426,401,2,A        ,Processing Equipment    ,Equipment     ,TPCW
+21,Denigrating Polish Equipment      ,566,454,427,3,A        ,Processing Equipment    ,Equipment     ,TPCE
+93,Bellowing Polishing Equipment        ,503,451,447,3,A        ,Processing Equipment-HQ  ,Equipment     ,TPCE
+63,Weeks Polishing Equipment            ,199,174,169,3,A        ,Processing Equipment-HQ  ,Equipment     ,TPCE
+68,Loaves Polishing Equipment           ,426,361,354,3,A        ,Processing Equipment-HQ  ,Equipment     ,TPCE
